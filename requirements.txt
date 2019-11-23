@@ -1,0 +1,10 @@
+pandas
+selenium
+imageio
+matplotlib
+numpy
+scipy
+joblib
+scikit-learn
+folium
+sklearn
